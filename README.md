@@ -1,4 +1,4 @@
-# DaulPavid's IPython Notebooks
+# [DaulPav.id](https://daulpav.id) IPython Notebooks
 
-Meant for articles published on [https://daulpav.id](https://daulpav.id).
+Notebooks used in my articles and slides.
 
